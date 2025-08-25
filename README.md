@@ -17,7 +17,7 @@
 ### 通过桔子小铺进行ChatGPT Plus代充值的操作流程：
 
 1.  **第一步：访问桔子小铺官网，选择"ChatGPT专区,找到ChatGPT Plus 自助充值服务"商品**
-    [桔子小铺官网](https://shop.muooy.com/)
+    [桔子小铺官网](https://juzixp.com/)
     ![通过桔子小铺进行ChatGPT Plus代充值第一步：访问桔子小铺官网，选择“ChatGPT专区”](https://gpt.juzixp.com/images/guide/20250810184052.png)
 
 2.  **第二步：点击商品进入，输入接收卡密信息的邮箱选择一种支付方式购买。**
